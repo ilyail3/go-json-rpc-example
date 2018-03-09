@@ -3,7 +3,7 @@ package main
 import (
 	"bytes"
 	"github.com/gorilla/rpc/json"
-	"rpc-example/src/shared"
+	"github.com/ilyail3/go-json-rpc-example/shared"
 	"log"
 	"net/http"
 )
